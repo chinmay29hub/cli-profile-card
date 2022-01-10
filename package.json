@@ -1,0 +1,36 @@
+{
+  "name": "chinmay29hub",
+  "version": "1.0.0",
+  "description": "This is the Profile Card for Chinmay Sonawane (chinmay29hub).",
+  "main": "node card.js",
+  "bin": "./card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinmay29hub/cli-profile-card.git"
+  },
+  "keywords": [
+    "profile-card",
+    "card",
+    "businessCard",
+    "socialCard"
+  ],
+  "author": "Chinmay Sonawane <chinmaysonawane57@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chinmay29hub/cli-profile-card/issues"
+  },
+  "homepage": "https://github.com/chinmay29hub/cli-profile-card#readme",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.1",
+    "clear": "^0.1.0",
+    "inquirer": "^8.1.0",
+    "open": "^8.2.0",
+    "ora": "^5.4.0",
+    "request": "^2.88.2"
+  }
+}
