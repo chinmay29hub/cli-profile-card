@@ -62,7 +62,7 @@ const questions = [
                 name: `Fork this ${chalk.yellow.bold("Repository")}?`,
                 value: () => {
                     open(`https://github.com/chinmay29hub/cli-profile-card`);
-                    console.log("\nLoading the Game...\n");
+                    console.log("\nLoading...\n");
                 },
             },
             //// Quit
