@@ -1,6 +1,6 @@
 {
   "name": "chinmay29hub",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "This is the Profile Card for Chinmay Sonawane (chinmay29hub).",
   "main": "node card.js",
   "bin": "./card.js",
