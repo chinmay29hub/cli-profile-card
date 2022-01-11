@@ -37,7 +37,7 @@ npm run card.js
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/chinmay29hub/cli-profile-card/issues). You can also take a look at the [contributing guide](https://github.com/chinmay29hub/cli-profile-card/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/chinmay29hub/cli-profile-card/issues).
 
 ## Show your support
 
